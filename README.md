@@ -1,2 +1,4 @@
 # Transnet
-A hybrid structure of Transformer and CNN for RS image semantic segmentation
+A Transformer-CNN hybrid structure for RS image semantic segmentation
+
+Codes will be made available soon
